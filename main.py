@@ -25,4 +25,4 @@ async def on_message(message):
     definitions = bf.help()
     await message.channel.send(definitions)
 
-client.run('NzUxODM3OTI5MTQzMjcxNDk0.X1O5og.Suh8RT2Mxg-xTCL8USMjWIUKwUI')
+client.run()
